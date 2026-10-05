@@ -1,0 +1,4 @@
+.env
+__pycache__/
+instructor_guide.html
+.DS_Store
